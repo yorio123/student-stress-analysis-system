@@ -1,0 +1,143 @@
+Variabel ,Question,Likert,Nilai
+Beban Akademik,status tga,Belum Diajukan,4
+,,Sedang Proses,3
+,,Sudah Lolos,1
+,,Revisi Berat,5
+,proses_tga,0%,5
+,,25%,4
+,,50%,3
+,,75%,2
+,,100%,1
+,Saya Merasa Cemas Memikirkan Tugas Akhir (q1_tga),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa kesulitan memenuhi target penyelesaian skripsi sesuai waktu yang ditentukan (q2_tga),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Beban pengerjaan skripsi terasa melebihi kemampuan saya. (q3_tga),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa tuntutan dalam pengerjaan skripsi sangat tinggi.(q4_tga),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa tertekan dengan berbagai tuntutan dalam proses penyusunan skripsi (q5_tga),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+Manajemen Waktu,Rata Rata Jam Tidur Per hari (sleep_time),1 jam,5
+,,2 jam,4
+,,3 jam,3
+,,4 jam,3
+,,5 jam,2
+,,6 jam,1
+,,7 jam,1
+,,8+ jam,1
+,Saya tidak mampu mengatur waktu secara efektif dalam mengerjakan skripsi (q1_time),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya sering menunda pekerjaan yang berkaitan dengan skripsi.(q2_time),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya tidak dapat membagi waktu antara pengerjaan skripsi dan aktivitas lain dengan baik. (q3_time),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+, Saya memiliki jadwal yang buruk untuk mengerjakan skripsi.(q4_time),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya tidak mampu menyelesaikan target pengerjaan skripsi sesuai rencana waktu yang telah ditetapkan.(q5_time),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+Dukungan Sosial,Saya merasa tidak mendapatkan dukungan dari dosen pembimbing dalam pengerjaan skripsi.(q1_pcv),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa dosen pembimbing tidak memberikan arahan yang jelas terkait skripsi saya. (q2_pcv),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa susah mendapatkan bantuan ketika mengalami kesulitan dalam skripsi. (q3_pcv),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa tidak didukung oleh lingkungan sekitar dalam menyelesaikan skripsi. (q4_pcv),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa tidak sendirian dalam menghadapi proses pengerjaan skripsi.(q5_pcv),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+Kondisi Keuangan,Saya merasa kondisi keuangan saya mempengaruhi proses pengerjaan skripsi.(q1_fnc),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa khawatir terhadap biaya yang diperlukan untuk menyelesaikan skripsi.(q2_fnc),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Keterbatasan finansial menjadi beban dalam penyelesaian skripsi saya.(q3_fnc),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa tekanan keuangan mengganggu fokus saya dalam mengerjakan skripsi.(q4_fnc),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya mengalami kesulitan memenuhi kebutuhan yang berkaitan dengan skripsi karena kondisi keuangan.(q5_fnc),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+Kualitas Tidur,Saya merasa kualitas tidur saya terganggu karena pengerjaan skripsi.(q1_sleep),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+, Saya mengalami kesulitan tidur akibat memikirkan skripsi.(q2_sleep),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa tidur saya kurang ketika sedang mengerjakan skripsi. (q3_sleep),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Saya merasa kurang segar saat bangun karena aktivitas pengerjaan skripsi.(q4_sleep),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
+,Pola tidur saya menjadi tidak teratur sejak mengerjakan skripsi.(q5_sleep),Sangat Tidak Setuju,1
+,,Tidak Setuju,2
+,,Netral,3
+,,Setuju,4
+,,Sangat Setuju,5
